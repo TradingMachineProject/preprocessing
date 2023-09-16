@@ -7,6 +7,8 @@
 ### Nearest Neighbor Feature
 - [Using ALL Feature](https://github.com/TradingMachineProject/preprocessing/blob/main/NN_%EA%B9%80%EC%84%B1%EC%9D%80.ipynb)
 
+### Feature Selection
+
 ## Modeling
 
 ## 💡 Reference
